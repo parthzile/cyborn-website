@@ -1,0 +1,8 @@
+@import url('http://fonts.cdnfonts.com/css/sofia-pro');
+
+body, html{
+    height: 100%;
+    width: 100%;   
+	margin: 0;
+	font-family: 'Sofia Pro';
+    }
